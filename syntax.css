@@ -1,0 +1,79 @@
+body{
+  background-color: #FEFCF3;
+  font-family: "Montserrat";
+  text-align: left;
+}
+
+.topborder{
+  position: 0 50px;
+  margin: 0 100px;
+}
+
+
+.links{
+  text-decoration: none;
+  font: Arial;
+  font-size: 0.7rem;
+}
+
+.buildingpic{
+  margin: 5%;
+}
+
+h1{
+  color: #0b4dc7;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+}
+
+h3{
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+
+h2{
+  font-size: 25px;
+  font-weight: bold;
+  color: #212529;
+  text-align: left;
+
+}
+
+#title{
+  position: 0 50px;
+  margin: 0 100px;
+}
+
+#picture{
+  position: 0 50px;
+  margin: 0 100px;
+}
+
+#text{
+  position: 0 50px;
+  margin: 0 100px;
+  padding-bottom: 20px;
+}
+
+#lastpart{
+  background-color: #CDF0EA;
+  font-family: 'Open Sans';
+  position: 0 50px;
+  margin: 0 100px;
+}
+
+.part1{
+  font-size: 0.9rem;
+}
+
+.btn{
+  margin: 0 45%;
+}
